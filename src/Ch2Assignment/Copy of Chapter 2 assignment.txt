@@ -1,0 +1,24 @@
+﻿Name Jack Milner        Period 9-10
+
+
+Chapter 2 assignment
+
+
+Fill in the blank (10 points)
+
+
+1. A(n) Compiler is used to translate assembly-language programs into machine code.
+
+
+1. In a Structured language, units of code are grouped together into what is called a “procedure” or “function.”
+
+
+1. A Java program is executed from the Main method in the class
+
+
+1. You can edit, compile, run, and Debug Java Programs using NetBeans or Eclipse
+
+
+1. The application program interface (API), also known as Library, contains predefined classes and interfaces for developing Java programs.
+
+
